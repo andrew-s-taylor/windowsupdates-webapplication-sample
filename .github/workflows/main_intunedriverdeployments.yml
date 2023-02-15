@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'intunedriverdeployments'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3B24F735EF5944AE9CF982F408D540F3 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EDDC4C9293104C5D8E7ED728161C5D46 }}
           package: .

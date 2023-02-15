@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'intunedriverupdates'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C7ED4753E2D2446AA6268B508F28F015 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_AE87EBE53F2148689AF7E70DF224BA2F }}
           package: .
